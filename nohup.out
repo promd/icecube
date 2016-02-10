@@ -1,0 +1,327 @@
+Server listening at port 3000
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "23.8 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m1365.260 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "24.7 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m182.497 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "24.7 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m83.461 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "24.7 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m84.554 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "24.7 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m67.130 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "24.7 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m99.175 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "24.7 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m90.464 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "24.7 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m77.991 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "24.7 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m56.371 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "24.7 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m96.819 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "25.1 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m61.369 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "25.4 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m62.056 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "25.4 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m55.306 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "24.7 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m39.130 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "25.1 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m52.182 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "25.4 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m65.497 ms - 15[0m
+[0mPOST /cubes/R001 [0m- [0m- ms - -[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "27.0 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m67.209 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "27.0 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m35.221 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "27.6 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m36.631 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "27.6 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m78.858 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "28.0 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m41.882 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "28.0 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m42.073 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "28.3 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m37.845 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "28.3 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m38.532 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "28.3 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m50.048 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "28.3 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m42.612 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "28.3 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m49.208 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "28.3 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m900.113 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "28.3 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m41.090 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "28.3 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m38.148 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "28.3 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m50.246 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "28.3 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m70.289 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "11.5 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m73.787 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "28.0 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m36.654 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "28.3 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m33.577 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "28.0 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m34.571 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "24.1 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m38.774 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "28.6 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m37.120 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "28.6 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m43.787 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "24.7 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m36.132 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "25.1 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m46.775 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "25.1 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m57.976 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "25.4 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m45.538 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "25.4 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m41.620 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "25.4 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m34.549 ms - 15[0m
+[0mPOST /cubes/R001 [0m- [0m- ms - -[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "25.1 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m39.310 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "25.4 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m35.121 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "25.7 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m36.853 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "25.7 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m78.947 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "25.7 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m41.721 ms - 15[0m
+[0mPOST /cubes/R001 [0m- [0m- ms - -[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "22.2 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m33.794 ms - 15[0m
+[0mPOST /cubes/R001 [0m- [0m- ms - -[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "23.1 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m33.470 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "23.1 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m37.154 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "23.4 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m36.712 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "23.8 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m33.931 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "23.8 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m50.627 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "24.4 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m41.182 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "24.4 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m35.491 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "24.4 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m36.252 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "24.4 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m32.191 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "24.4 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m48.080 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "24.4 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m120.126 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "24.7 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m43.955 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "24.7 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m48.820 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "25.1 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m34.121 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "24.7 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m55.324 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "25.1 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m35.537 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "25.1 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m35.334 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "25.1 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m35.390 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "25.1 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m34.910 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "25.1 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m34.632 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "25.1 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m33.251 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "24.7 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m36.042 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "24.7 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m35.464 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "24.4 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m40.312 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "24.4 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m37.290 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "24.4 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m53.367 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "22.8 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m37.500 ms - 15[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "free", "status" : "free", "moreinfo" : "24.4 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m36.351 ms - 15[0m
+[0mPOST /cubes/R001 [0m- [0m- ms - -[0m
+K10_2EH02
+{ "auth_token": "stcs", "text" : "occupied", "status" : "occupied", "moreinfo" : "24.4 Celsius" }
+Error:204
+[0mPOST /cubes/R001 [32m200 [0m33.796 ms - 15[0m
+[0mGET / [32m200 [0m5337.971 ms - 592[0m

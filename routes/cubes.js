@@ -1,19 +1,23 @@
 var express = require('express');
 var router = express.Router();
+var request= require('request');
 
 /*
  * GET cubelist.
  */
-router.get('/', function(req, res) {
+router.get('/:id', function(req, res) {
     var db = req.db;
-
-
+    console.log("Data received from " + req.params.id);
+    console.log(req.query);
+    res.send();
+/*
     db.query('select * from history', {
         limit: 10
     }).then(function (results){
       res.json(results);
       console.log(results);
     });
+*/
 });
 
 /*
@@ -21,27 +25,63 @@ router.get('/', function(req, res) {
  */
 router.post('/:id', function(req, res) {    
     db = req.db;
+
+    var resbody = { "status" : "ok"};
     // { "temp": "28", "voltage": "3945", "humidity": "60", "event" : "scheduled" }
     var content = req.body;
     content.cube = req.params.id;
     content.time = Date.now();
-    console.log(req.body);
 
-    if (content.event == 'motion') {
-         // movement, room is blocked
-         db.select().from('rooms').containsText({cubes: content.cube}).all()
-         .then(function (rooms) {
-             console.log('busy room(s)', rooms);
-	     for (var i in rooms) {
-                // change the status to busy
-	     }
-         });
+    // get associated rooms
+    var rooms = db.select().from('rooms').containsText({cubes: content.cube}).all()
+    var upd   = false;
+
+    //translation logic
+    if (content.event == 'used') {
+	content.event = 'occupied';
+    } else if (content.event == 'powr') {
+	content.event = 'startup';
     }
 
-    db.insert().into('history').set(content).one()
-    .then(function (user) {
-        res.json({"status" : "ok"});
-    });
+
+    if (content.event == 'occupied') {
+	// cube sends occupied event
+        upd = true;
+    } else if (content.event == 'free') {
+	// cube sends free event
+        upd = true;
+    } else if (content.event == 'blocked') {
+        // cube sends blocked event
+        upd = true;
+    } else {
+        // other event
+    }
+
+    db.insert().into('history').set(content).one();
+
+    if (upd) {
+	rooms.then(function (rs) {
+		for (var i in rs) {
+			rid = rs[i].name;
+			rid = rid.replace(/\s/g,"_");
+			console.log(rid);
+			msg = '{ "auth_token": "stcs", "text" : "' + content.event  +  '", "status" : "' + content.event + '", "moreinfo" : "' + content.temp  + ' Celsius" }';
+			console.log(msg);
+			request.post(
+        			'http://143.39.231.107:3030/widgets/' + rid,
+                		{ form : msg },
+        	        	function (error, response, body) {
+	        	           if (!error && response.statusCode == 200) {
+        	        	      console.log(body);
+	                	   } else {
+				      console.log("Error:" + response.statusCode);
+				   }
+				   res.json(resbody);
+		                }
+			);
+		}
+	});
+    }
 });
 
 module.exports = router;

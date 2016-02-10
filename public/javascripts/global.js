@@ -6,7 +6,7 @@ $(document).ready(function() {
 
     // Populate the table on initial page load
     populateTable();
-
+    var socket = io();
 });
 
 // Functions =============================================================
