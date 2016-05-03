@@ -1,6 +1,7 @@
 var express = require('express');
 var router = express.Router();
 var request= require('request');
+var dateFormat = require('dateformat');
 
 /*
  * GET cubelist.
@@ -29,8 +30,11 @@ router.post('/:id', function(req, res) {
     var resbody = { "status" : "ok"};
     // { "temp": "28", "voltage": "3945", "humidity": "60", "event" : "scheduled" }
     var content = req.body;
+    console.log(req);
     content.cube = req.params.id;
     content.time = Date.now();
+    content.timestr = dateFormat(content.time, "dd.mm.yy HH:MM:ss");
+    
 
     // get associated rooms
     var rooms = db.select().from('rooms').containsText({cubes: content.cube}).all()
